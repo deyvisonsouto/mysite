@@ -1,0 +1,26 @@
+{
+  "name": "deyvisonsouto",
+  "version": "1.0.0",
+  "description": "Deyvison Souto Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deyvisonsouto/mysite.git"
+  },
+  "keywords": [
+    "deyvonsouto",
+    "site"
+  ],
+  "author": "Deyvison Souto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deyvisonsouto/mysite/issues"
+  },
+  "homepage": "https://github.com/deyvisonsouto/mysite#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
