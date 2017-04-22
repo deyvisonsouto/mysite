@@ -1,0 +1,30 @@
+{
+  "name": "deyvisonsouto",
+  "description": "Deyvison Souto Site",
+  "main": "index.js",
+  "authors": [
+    "Deyvison Souto"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "deyvonsouto",
+    "site"
+  ],
+  "homepage": "https://github.com/deyvisonsouto/mysite",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "angularjs#^1.6.4",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "moment": "^2.18.1",
+    "angular-resource": "^1.6.4",
+    "angular-route": "^1.6.4"
+  }
+}
